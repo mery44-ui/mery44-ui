@@ -1,4 +1,4 @@
-#Hey, I'm Meryam 👋
+# Hey, I'm Meryam 👋
 🔭 I’m currently a 1st year computer engineering student .<br><br>
 👯 I’m looking to collaborate on beginner-friendly open-source projects or study groups for core CS subjects.<br><br>
 🌱 I’m currently learning The fundamentals of Software Development and exploring various IT fields to find my niche.<br><br>⚡ Fun fact: I spend 90% of my time debugging and the other 10% wondering why the code finally worked.
